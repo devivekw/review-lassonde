@@ -42,12 +42,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 <img style="padding: 20px" src="assets/flutter.gif" width="30%">
 
-
 ## Built With
 
 - [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
 - [Firebase](http://firebase.google.com/) - Firebase is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
 - [Selenium](https://selenium-python.readthedocs.io/) - Selenium automates browsers.
+
+## Helpful Resouces
+
+- [Flutter Fire](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/cloud_firestore/cloud_firestore)
+- [Anatomy of Material Buttons in Flutter](https://medium.com/flutterpub/anatomy-of-material-buttons-in-flutter-first-part-40eb790979a6)
+- [FlutterIcon - Flutter custom icon generator](https://fluttericon.com/)
+- [Flutter Widget In Focus — Chip](https://medium.com/aubergine-solutions/flutter-widget-in-focus-chip-know-it-all-1c46217dca9b)
+- [Flutter: Sliders DeMystified](https://medium.com/flutter-community/flutter-sliders-demystified-4b3ea65879c)
+- [A Deep Dive Into Flutter TextField](https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a)
+- [Implement searching with Firebase firestore | Flutter](https://medium.com/flutterdevs/implement-searching-with-firebase-firestore-flutter-de7ebd53c8c9)
+
 
 # License
 
