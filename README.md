@@ -36,7 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 |    HomePage    |    FacultyPage        | CoursePage  |
 | :-------------: |:-------------:| :-----:|
-|<img src="assets/figma/homepage.png" width="50%"> | <img src="assets/figma/facultypage.png" width="50%"> | <img src="assets/figma/coursepage.png" width="50%">
+|<img src="assets/figma/homepage.png" width="70%"> | <img src="assets/figma/facultypage.png" width="70%"> | <img src="assets/figma/coursepage.png" width="70%">
 
 ### Flutter
 
