@@ -8,13 +8,14 @@ ThemeData appTheme() {
     primaryColor: Pallete.creativeMaroon,
     accentColor: Pallete.backgroundGrey,
     backgroundColor: Pallete.backgroundGrey,
+    
     //App theme
     appBarTheme: AppBarTheme(
       color: Colors.grey[50],
       elevation: 0,
     ),
 
-    //Font familhy
+    //Font family
     fontFamily: "Avenir",
   );
 }
