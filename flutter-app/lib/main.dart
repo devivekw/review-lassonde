@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Rate My Course',
+      title: 'Review Lassonde',
       theme: appTheme(),
       home: HomePage(),
     );
